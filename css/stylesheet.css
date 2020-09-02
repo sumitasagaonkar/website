@@ -1,0 +1,156 @@
+ body
+ {
+     margin-top:0%;
+
+     font-family:'Helvetica';
+     background-image: url("bg3.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+   background-size: cover;
+ }
+ .d2{
+        display:inline-block;
+       width:40%;
+        font-size:80%;
+         text-align:left;
+         padding-left:5%;
+            padding-bottom:2%;
+            color:white;
+       
+    }
+     .d3{
+         display:inline-block;
+        width:40%;
+        font-size:80%; 
+        margin-left:5%;
+        padding-left:5%;
+        padding-right:2%;
+        padding-bottom:2%;
+        float:right;
+        color:white;
+       
+    }
+    /*@font-face{
+        font-family: 'marathi1';
+        src:url('font\marathi1.ttf') format('truetype');
+    }*/
+    .heading11{
+        text-align:center;
+        background-color:#00296b;
+        height:30%;
+        font-size:300%;
+        color:white;
+        opacity:0.7;
+       
+        
+    }
+    h4
+    {
+        opacity:0.7;
+    }
+    
+    a{
+        text-decoration:none;
+        color:white;
+        
+    }
+    a:hover{
+         background-color:#c1d3fe;
+    }
+    
+    a:focous{
+        background-color:#c1d3fe;
+    }
+    a:active
+    {
+        background-color:yellow;
+    }
+    
+    footer{
+         background-color:#00296b;
+         height:60%;
+         margin-top:4%;
+         
+         opacity:0.7;
+       
+    }
+    .imgstyler
+    {
+        width:33%;
+        display:inline-block;
+        height:15%;
+        opacity:80%;
+    }
+    .navItem
+    {
+       padding-right:2%;
+       padding-left:1%;
+       
+       font-family:'Geneva';
+       
+    }
+    header{
+        margin-bottom:4%;
+        text-align:center;
+        background-color:transparent;
+        padding-top:3%;
+        padding-bottom:3%;
+        margin-top:0%;
+        font-size:100%;
+        
+       
+    }
+    .main{
+        padding-bottom:6%;
+    }
+   /* .slideshow{
+        width:500px;
+        height:200px;
+        overflow:hidden;
+    }
+    .middle{
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform: translate(-50%,-50%);
+        
+    }
+    .navigation{
+        position:absolute;
+        bottom:20px;
+        left:50%;
+        transform: translateX(-50%);
+        display:flex;
+    }
+    .bar{
+        width:50px;
+        height:10px;
+        border:2px solid #fff;
+        margin:6px;
+        cursor:pointer;
+        transition:0.4s;
+    }
+    .bar:hover{
+        background:#fff;
+    }
+    input[name="r"]{
+        position:absolute;
+        visibility:hidden;
+    }
+    .slides{
+        width:500%;
+        height:100%;
+        display:flex;
+        
+    }
+    .slide{
+        width:50%;
+        transition:0.6s;
+        
+    }
+    .slide img
+    {
+        width:50%%;
+        height:50%;
+    }*/
